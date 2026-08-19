@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sorawit Yuenyao
+Hi ![](<img width="121" height="86" alt="Screenshot 2026-08-19 160923" src="https://github.com/user-attachments/assets/d93e8924-4f35-41a7-ba14-aa5e9a5ec433" />
+) My name is Sorawit Yuenyao
 ========================================================================================================================================
 
 Student
